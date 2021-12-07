@@ -1,0 +1,1 @@
+export const MYCONST: string = "Hey there";
